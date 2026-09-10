@@ -322,4 +322,5 @@ Follow this exact flow during your SIH presentation:
 #   E d u S m a r t - A I - P e r s o n a l i z e d - S m a r t - L e a r n i n g - S t u d e n t - S u c c e s s - P l a t f o r m  
  #   S m a r t _ E d u c a t i o n _ P r o j e c t  
  #   S m a r t _ E d u c a t i o n _ P r o j e c t  
+ #   S m a r t _ E d u c a t i o n _ P r o j e c t  
  
